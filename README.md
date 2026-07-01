@@ -4,7 +4,7 @@
 **Prediksi Rekomendasi Tanaman (Crop Recommendation) Menggunakan Algoritma Descion Tree**
 
 Nama Kelompok:
-1. Wisnu Rangga — 2406168
+Wisnu Rangga — 2406168
 
 
 ```
@@ -24,5 +24,3 @@ Nama Kelompok:
 2. Upload file `data/Crop_recommendation.csv` ke environment Colab (atau mount Google Drive dan sesuaikan path).
 3. Jalankan seluruh cell secara berurutan (Runtime > Run all).
 
-## Referensi
-Lihat daftar pustaka lengkap (gaya APA) pada bagian 9 di `uas_ai.md`.
