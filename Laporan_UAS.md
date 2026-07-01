@@ -156,13 +156,11 @@ Ya. Model klasifikasi yang dibangun mampu memberikan rekomendasi jenis tanaman s
 
 ## 9. Referensi
 
-1. Doshi, Z., Nadkarni, S., Agrawal, R., & Shah, N. (2018). AgroConsultant: Intelligent Crop Recommendation System Using Machine Learning Algorithms. *2018 Fourth International Conference on Computing Communication Control and Automation (ICCUBEA)*, 1–6. https://doi.org/10.1109/ICCUBEA.2018.8697349
-2. Pudumalar, S., Ramanujam, E., Rajashree, R. H., Kavya, C., Kiruthika, T., & Nisha, J. (2017). Crop recommendation system for precision agriculture. *2016 Eighth International Conference on Advanced Computing (ICoAC)*, 32–36. https://doi.org/10.1109/ICoAC.2017.7951740
-3. Kumar, R., Singh, M. P., Kumar, P., & Singh, J. P. (2015). Crop Selection Method to maximize crop yield rate using machine learning technique. *2015 International Conference on Smart Technologies and Management for Computing, Communication, Controls, Energy and Materials (ICSTM)*, 138–145. https://doi.org/10.1109/ICSTM.2015.7225403
-4. Breiman, L., Friedman, J., Olshen, R. A., & Stone, C. J. (1984). *Classification and Regression Trees*. Wadsworth International Group.
-5. Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., Blondel, M., Prettenhofer, P., Weiss, R., Dubourg, V., Vanderplas, J., Passos, A., Cournapeau, D., Brucher, M., Perrot, M., & Duchesnay, E. (2011). Scikit-learn: Machine Learning in Python. *Journal of Machine Learning Research*, 12, 2825–2830.
-6. Han, J., Kamber, M., & Pei, J. (2012). *Data Mining: Concepts and Techniques* (3rd ed.). Morgan Kaufmann.
-7. Scikit-learn Developers. (2024). *Scikit-learn Documentation*. https://scikit-learn.org/stable/documentation.html
+1.Apat, S. K., Mishra, J., Raju, K. S., & Padhy, N. (2023). An artificial intelligence-based crop recommendation system using machine learning. Journal of Scientific & Industrial Research, 82(5), 558–567. https://doi.org/10.56042/jsir.v82i05.1092
+2.Dey, B., Ferdous, J., & Ahmed, R. (2024). Machine learning based recommendation of agricultural and horticultural crop farming in India under the regime of NPK, soil pH and three climatic variables. Heliyon, 10(3), e25112. https://doi.org/10.1016/j.heliyon.2024.e25112
+3.Senapaty, M. K., Ray, A., & Padhy, N. (2024). A decision support system for crop recommendation using machine learning classification algorithms. Agriculture, 14(8), 1256. https://doi.org/10.3390/agriculture14081256
+4.Pudumalar, S., Ramanujam, E., Rajashree, R. H., Kavya, C., Kiruthika, T., & Nisha, J. (2017). Crop recommendation system for precision agriculture. In 2016 Eighth International Conference on Advanced Computing (ICoAC) (pp. 32–36). IEEE. https://doi.org/10.1109/ICoAC.2017.7951740
+5.Attri, I., Awasthi, L. K., & Sharma, T. P. (2024). Machine learning in agriculture: A review of crop management applications. Multimedia Tools and Applications, 83(5), 12875–12915. https://doi.org/10.1007/s11042-023-16105-2
 
 ---
 
