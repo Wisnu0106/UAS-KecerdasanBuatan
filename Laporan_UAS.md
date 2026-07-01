@@ -160,7 +160,7 @@ Ya. Model klasifikasi yang dibangun mampu memberikan rekomendasi jenis tanaman s
 2. Dey, B., Ferdous, J., & Ahmed, R. (2024). Machine learning based recommendation of agricultural and horticultural crop farming in India under the regime of NPK, soil pH and three climatic variables. Heliyon, 10(3), e25112. https://doi.org/10.1016/j.heliyon.2024.e25112
 3. Senapaty, M. K., Ray, A., & Padhy, N. (2024). A decision support system for crop recommendation using machine learning classification algorithms. Agriculture, 14(8), 1256. https://doi.org/10.3390/agriculture14081256
 4. Afzal, H., Amjad, M., Raza, A., Munir, K., Villar, S. G., Lopez, L. A. D., & Ashraf, I. (2025). Incorporating soil information with machine learning for crop recommendation to improve agricultural output. Scientific Reports, 15, 8560. https://doi.org/10.1038/s41598-025-88676-z
-5. Kumar, N., & Ashwani. (2025). A machine learning-based crop recommendation system using soil ecology for sustainable agriculture. Environment Conservation Journal. https://doi.org/10.36953/ECJ.3389
+5. Hasan, M., Marjan, M. A., Uddin, M. P., Afjal, M. I., Kardy, S., Ma, S., & Nam, Y. (2023). Ensemble machine learning-based recommendation system for effective prediction of suitable agricultural crop cultivation. Frontiers in Plant Science, 14, 1234555. https://doi.org/10.3389/fpls.2023.1234555
 
 ---
 
