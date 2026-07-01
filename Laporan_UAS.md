@@ -59,8 +59,14 @@ Seluruh fitur input bertipe numerik kontinu, sedangkan target `label` bertipe ka
 **Visualisasi distribusi data**
 Dilakukan visualisasi *bar chart* untuk distribusi jumlah sampel tiap kelas tanaman, dan histogram untuk distribusi tiap fitur numerik (N, P, K, temperature, humidity, ph, rainfall). Hasil visualisasi lengkap tersedia pada `notebook_model.ipynb`.
 
+<img width="1184" height="584" alt="EDA" src="https://github.com/user-attachments/assets/95491ddb-f02c-4ca8-b5c7-a7c4805a59d2" />
+
+
 **Analisis korelasi antar fitur**
 *Heatmap* korelasi Pearson digunakan untuk melihat hubungan linear antar fitur numerik, dan *pairplot* digunakan untuk melihat sebaran beberapa fitur (N, P, K, rainfall) terhadap label pada sampel beberapa jenis tanaman.
+
+<img width="757" height="584" alt="Fitur" src="https://github.com/user-attachments/assets/5f96d719-ef26-4a2b-a664-06e6556f4629" />
+
 
 **Deteksi data tidak seimbang (imbalanced classes)**
 Berdasarkan distribusi jumlah sampel per kelas, dataset ini tergolong **seimbang (balanced)** karena setiap jenis tanaman memiliki jumlah sampel yang relatif sama (sekitar 100 data per kelas), sehingga tidak diperlukan teknik penyeimbangan kelas khusus seperti SMOTE.
@@ -93,6 +99,9 @@ Data dibagi menjadi data latih (80%) dan data uji (20%) menggunakan `train_test_
 **Pemilihan algoritma**
 Empat algoritma klasifikasi dibandingkan: **Decision Tree**, **K-Nearest Neighbors (KNN)**, **Support Vector Machine (SVM)**, dan **Naive Bayes**.
 
+<img width="1570" height="812" alt="Modeling DSC" src="https://github.com/user-attachments/assets/0bbda532-90bb-4312-953d-7aab83021e12" />
+
+
 **Alasan pemilihan model**
 - *Decision Tree* dipilih sebagai model utama karena mudah diinterpretasikan (dapat divisualisasikan sebagai pohon keputusan) dan terbukti efektif untuk masalah klasifikasi tanaman pada penelitian sebelumnya (Doshi et al., 2018).
 - *KNN* dipilih sebagai pembanding berbasis kedekatan jarak antar data.
@@ -121,7 +130,7 @@ Setiap model dievaluasi menggunakan empat metrik utama: **Accuracy**, **Precisio
 **Penjelasan kinerja model**
 Berdasarkan hasil eksperimen pada notebook, model **Decision Tree** umumnya menghasilkan akurasi, precision, recall, dan F1-score tertinggi atau sangat kompetitif dibanding model lain pada dataset ini (umumnya di atas 95%). Nilai precision dan recall yang tinggi dan seimbang pada hampir seluruh kelas menunjukkan model mampu mengenali pola kebutuhan unsur hara dan iklim tiap tanaman dengan baik, tanpa bias signifikan terhadap kelas tertentu. Kesalahan klasifikasi pada confusion matrix umumnya terjadi pada tanaman dengan karakteristik kondisi tanah/iklim yang mirip (misalnya antar jenis kacang-kacangan seperti mothbeans, mungbean, dan blackgram).
 
-> Catatan: Nilai metrik aktual (angka pasti) dapat dilihat pada output sel kode di `notebook_model.ipynb` setelah dijalankan, karena nilai dapat sedikit bervariasi tergantung proses *random split* data.
+
 
 ---
 
