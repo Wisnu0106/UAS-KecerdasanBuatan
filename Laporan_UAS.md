@@ -112,6 +112,9 @@ Pohon keputusan (Decision Tree) divisualisasikan hingga kedalaman 3 level menggu
 **Confusion matrix**
 Confusion matrix dihitung untuk model dengan performa terbaik guna melihat pola kesalahan klasifikasi antar kelas tanaman (lihat `notebook_model.ipynb` bagian 7.2).
 
+<img width="1297" height="1183" alt="congusion matrix" src="https://github.com/user-attachments/assets/27765da0-a5a6-4068-8f51-5439ea77b6bc" />
+
+
 **Metrik evaluasi**
 Setiap model dievaluasi menggunakan empat metrik utama: **Accuracy**, **Precision**, **Recall**, dan **F1-score** (rata-rata berbobot/*weighted average* karena bersifat multi-kelas).
 
@@ -158,4 +161,4 @@ Ya. Model klasifikasi yang dibangun mampu memberikan rekomendasi jenis tanaman s
 
 - Dataset mentah: `data/Crop_recommendation.csv`
 - Seluruh grafik EDA (histogram, heatmap, pairplot, boxplot), visualisasi pohon keputusan, grafik perbandingan metrik, dan confusion matrix tersedia pada `notebook_model.ipynb`.
-<img width="1297" height="1183" alt="congusion matrix" src="https://github.com/user-attachments/assets/77c0c74b-6d10-48a1-b4f8-b36731f787fa" />
+
